@@ -22,7 +22,7 @@ const About = ({ data }) => {
               Taiyaki tumblr flexitarian jean shorts brunch, aesthetic salvia
               retro.
             </p>
-            <p>This is from Udemy.</p>
+            <p>This is from Udemy. Using Gatsby.</p>
             <Link to="/contact" className="btn">
               contact
             </Link>
