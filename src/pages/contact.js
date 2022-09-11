@@ -26,6 +26,7 @@ const Contact = ({ data }) => {
               Hashtag swag health goth air plant, raclette listicle fingerstache
               cold-pressed fanny pack bicycle rights cardigan poke.
             </p>
+            <p>This is for learning purposes only.</p>
           </article>
           <article>
             <form
